@@ -56,9 +56,9 @@ Hi, I'm Arnab 👋
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=COSMO-ARNAB&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </p>
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Trophies (Alternative: 3D Profile Activity)
 <p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=COSMO-ARNAB&theme=dark&no-frame=false&no-bg=false&margin-w=4" alt="Trophies" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=COSMO-ARNAB&theme=react-dark&bg_color=0d1117&hide_border=true" alt="Arnab's Activity Graph" />
 </p>
 
 ### ✍️ Random Dev Quote
@@ -68,5 +68,5 @@ Hi, I'm Arnab 👋
 
 ### 🔝 Top Contributed Repo
 <p align="left">
-  <img src="https://github-contributor-stats.vercel.app/api?username=COSMO-ARNAB&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributions" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=COSMO-ARNAB&theme=dark" alt="Arnab's Streak" />
 </p>
