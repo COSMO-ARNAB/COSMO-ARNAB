@@ -1,47 +1,52 @@
-# Hi, I'm Arnab 👋
+# 💫 About Me:
+Hi, I’m Arnab 👋 
 
 **Undergrad CSE Student | Future Quant Engineer**
 
-🚀 **About Me:**
-I’m a Computer Science & Engineering student from West Bengal exploring multiple software domains—from native desktop architectures to full-stack systems. I believe in mastering how the entire system breathes before hyper-focusing.
+🔭 **The Current Phase:** I’m actively exploring multiple software domains—from full-stack web architectures to native desktop systems. I believe in understanding how the whole system breathes before hyper-focusing. 
 
-🔭 **The Current Phase:** Building high-performance desktop tools, refining data persistence engines, and tracking execution speed across every codebase.
-🌱 **What I'm Learning:** * **Core Systems:** C/C++, Advanced Data Structures & Algorithms, memory management, and low-level resource optimization.
-* **Desktop & Automation:** C# (.NET 8, WPF, WinUI) and Python for future statistical foundations.
-* **Data & Web:** SQLite (offline-first persistence), React, and Electron architectures.
-🎯 **The End Game:** Weaponizing this broad engineering foundation to build ultra-low-latency quantitative trading systems.
-💬 **Let's talk about:** Systems architecture, advanced DSA, memory management, or football tactical breakdowns.
+🌱 **What I’m Learning & Building With:** * **Core Systems:** C/C++, Data Structures & Algorithms, memory management, and low-level resource optimization. 
+* **Application & Automation:** Python (foundations for data/AI), C# (.NET 8 & WPF for high-performance UI rendering). 
+* **Data & Web:** SQLite (offline-first persistence), React, and modern UI architectures like Electron. 
 
----
+🎯 **The End Game:** Building the mathematical, algorithmic, and low-level engineering foundations required to build ultra-low-latency quantitative trading systems. 
 
-## 🚀 Featured Projects
-
-### 🖥️ Wallpaper-Turbo
-A modern, ultra-high-performance animated wallpaper engine for Windows engineered with C# and WPF.
-* **Tech Stack:** C#, .NET 8, WPF, MVVM, VLC/Media Rendering, Win32 APIs, GitHub Actions
-* **Focus:** Hardware-accelerated background rendering with aggressive resource management to keep system throughput maximized.
-
-### 📊 Expense-Tracker
-A premium, offline-first personal finance engine and desktop application.
-* **Tech Stack:** React, Electron, SQLite, Tailwind CSS
-* **Focus:** Heavy client-side performance, data persistence pipelines, and smooth, motion-enhanced glassmorphism UI.
+💬 **Let’s chat about:** Systems architecture, advanced DSA, memory management, or football tactical setups.
 
 ---
 
-## 💻 Tech Stack
-
-| Category | Technologies |
-| :--- | :--- |
-| **Languages** | C, C++, C#, Python, SQL, JavaScript |
-| **Frameworks / Libraries** | .NET 8, WPF, React, Electron, WinUI |
-| **Databases** | SQLite |
-| **Tools & Platforms** | Git, GitHub, GitHub Actions, Visual Studio, Vite |
+## 🌐 Socials:
+<p align="left">
+<a href="https://linkedin.com/in/COSMO-ARNAB" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="COSMO-ARNAB" height="30" width="40" /></a>
+</p>
 
 ---
 
-## 📈 Goals & Focus
-* ⚡ Optimize `Wallpaper-Turbo`'s auto-updater and thread-lifecycle management.
-* 🧠 Deepen knowledge in systems programming, hardware-level optimization, and advanced software architecture.
-* ⚽ Apply precision logic to everything—from raw memory buffers to a clinical 4-2-3-1 football formation.
+# 💻 Tech Stack:
+<p align="left">
+  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".Net" />
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361dafb" alt="React" />
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
+  <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</p>
 
-⭐ *Check out my repositories below for the latest source builds.*
+---
+
+# 📊 GitHub Stats:
+
+## 🏆 GitHub Trophies
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=COSMO-ARNAB&theme=radical" alt="COSMO-ARNAB Trophies" />
+</p>
+
+## 📈 Core GitHub Metrics
+<p align="left">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=COSMO-ARNAB&show_icons=true&theme=radical" alt="COSMO-ARNAB Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=COSMO-ARNAB&layout=compact&theme=radical" alt="COSMO-ARNAB Top Languages" />
+</p>
