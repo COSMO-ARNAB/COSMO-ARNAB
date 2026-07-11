@@ -52,7 +52,6 @@ Hi, I'm Arnab 👋
 
 <p align="left">
   <img src="https://github-readme-stats.shion.dev/api?username=COSMO-ARNAB&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Stats Dashboard" /><br/><br/>
-  <img src="https://streak-stats.demolab.com/?user=COSMO-ARNAB&theme=dark&hide_border=false" alt="Streak Stats" /><br/><br/>
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=COSMO-ARNAB&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </p>
 
